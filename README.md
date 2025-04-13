@@ -72,8 +72,7 @@ I specialize in:
 
 ## 📫 Contact Me
 
-- 📧 Email: abhishek@email.com  
-- 💼 LinkedIn: [https://linkedin.com/in/abhishek-srivastava](https://linkedin.com/in/abhishek-srivastava)  
-- 💻 GitHub: [https://github.com/abhishek-srivastava](https://github.com/abhishek-srivastava)
-
+- 📧 Email: abhisheksrivastava10102005@gmail.com 
+- 💼 LinkedIn: [[https://linkedin.com/in/abhishek-srivastava](https://linkedin.com/in/abhishek-srivastava) ](https://www.linkedin.com/in/abhishek-srivastava-1845432b4/?trk=opento_sprofile_details) 
+- 💻 GitHub: https://github.com/abhisheksri184/data-analyst-portfolio
 ---
